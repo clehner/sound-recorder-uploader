@@ -1,12 +1,12 @@
-= Flash (haxe) MP3 Recorder & Uploader
+# Flash (haxe) MP3 Recorder & Uploader
 
 This is a flash thingy that lets you make recordings in the browser from the microphone, and upload them directly to a web server as an mp3. It is coded with haxe so you do not need the Flash IDE to edit the code.
 
-== Compiling
+## Compiling
 
     haxe compile.hxml
 
-== Usage
+## Usage
 
 * Have recorder.swf in the same directory as upload_mp3.php
 * Make sure the recordings directory is writable by the web server.
