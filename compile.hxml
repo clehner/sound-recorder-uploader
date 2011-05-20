@@ -1,0 +1,12 @@
+-main Recorder
+-swf-version 10
+-swf recorder.swf
+
+# set dimensions of 700 wide x 400 tall
+# 40 frames per second
+# background color of #FFFFFF
+-swf-header 300:180:40:FFFFFF
+
+#-swf-lib shineMP3_alchemy.swf
+-cp hxclasses
+--no-traces
