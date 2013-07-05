@@ -8,6 +8,6 @@ This is a flash thingy that lets you make recordings in the browser from the mic
 
 ## Usage
 
-* Have recorder.swf in the same directory as upload_mp3.php
-* Make sure the recordings directory is writable by the web server.
-* Embed recorder.swf in a page (e.g. index.html)
+* In the same directory, put `shineMP3_alchemy.swf`, `recorder.swf`, `upload_mp3.php`, and an empty directory called `recordings`.
+* Make sure the `recordings` directory is writable by the web server.
+* Embed `recorder.swf` in a page (e.g. index.html)
